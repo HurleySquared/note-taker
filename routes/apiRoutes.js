@@ -5,6 +5,11 @@ module.exports = (app) => {
 
   app.post('/api/notes', (req, res) => {
       noteData.push(req.body);
-      res.json(true)
+      res.json(true);
   });
-}
+
+  app.delete('/api/notes', (req, res) => {
+      noteData.splice(0, 1);
+      res.json(true);
+  });
+};

@@ -1,10 +1,12 @@
 # Note Taker
-This application will let you take notes, save them, and delete them utilizing Express.js on the back end.
+This application will let you take notes, save them, and delete them utilizing Express.js on the back end.  The application is deployed through Heroku.
 
 ## Table of Contents
 
 - [User Story](#userstory)
 - [Acceptance Criteria](#acceptancecriteria)
+- [GitHub Repo](#githubrepo)
+- [Heroku](#heroku)
 
 ## User Story
 
@@ -35,3 +37,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## GitHub Repo
 
 [Note-taker GitHub](https://github.com/HurleySquared/note-taker)
+
+## Heroku Link
+
+[Heroku]()
