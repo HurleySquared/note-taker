@@ -7,6 +7,7 @@ This application will let you take notes, save them, and delete them utilizing E
 - [Acceptance Criteria](#acceptancecriteria)
 - [GitHub Repo](#githubrepo)
 - [Heroku](#heroku)
+- [Screenshot](#screenshot)
 
 ## User Story
 
@@ -41,3 +42,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Heroku Link
 
 [Heroku]()
+
+## Screenshot
+
+![]()
